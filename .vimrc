@@ -16,3 +16,4 @@ set ruler
 set noerrorbells
 set wildmenu
 set wildmode=longest:list,full
+set noswapfile
